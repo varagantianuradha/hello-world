@@ -2,6 +2,6 @@
 <html>
 <head><title>Greeter</title></head>
 <body>
-<h1>${requestScope.greeting == null ? "I have nothing to say" : requestScope.greeting}</h1>
+<h1>${requestScope.greeting == null ? "I have nothing to say :Hello how are you " : requestScope.greeting}</h1>
 </body>
 </html>
